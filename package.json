@@ -132,7 +132,7 @@
         "gatsby-transformer-json": "2.11.0",
         "gatsby-transformer-sharp": "2.12.1",
         "git-branch-is": "4.0.0",
-        "husky": "4.3.8",
+        "husky": "7.0.1",
         "identity-obj-proxy": "3.0.0",
         "jest": "26.6.3",
         "jest-css-modules-transform": "4.3.0",
